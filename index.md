@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## THE OFFICIAL SEA SALT DEVLOG
 
 The official development log for the Sea Salt game. All files are released in the game's alpha and private beta and will be archived once the full game is released. Pages site soon to be updated.
 
